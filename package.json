@@ -46,9 +46,9 @@
     "metro-react-native-babel-preset": "^0.51.1"
   },
   "peerDependencies": {
-    "chat-engine": "0.9.x",
-    "react-native": "0.57.x",
-    "react": "16.x.x"
+    "chat-engine": ">=0.9.0",
+    "react-native": ">=0.57.0",
+    "react": ">=16.0.0"
   },
   "jest": {
     "collectCoverage": true,
